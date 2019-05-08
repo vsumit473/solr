@@ -1,0 +1,8 @@
+com\example\demo\model\AlphaPrefixNetworkDocument.class
+com\example\demo\controller\SolrPOCController.class
+com\example\demo\repository\ProviderRepository.class
+com\example\demo\controller\ProviderController.class
+com\example\demo\model\Provider.class
+com\example\demo\SpringSolrPocApplication.class
+com\example\demo\repository\AlphaPrefixRepo.class
+com\example\demo\config.class
